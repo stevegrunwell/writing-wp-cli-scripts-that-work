@@ -1,0 +1,8 @@
+{
+  "name": "writing-wp-cli-scripts-that-work",
+  "version": "0.1.0",
+  "dependencies": {
+    "reveal.js": "~3.2.0",
+    "highlightjs": "~9.0.0"
+  }
+}

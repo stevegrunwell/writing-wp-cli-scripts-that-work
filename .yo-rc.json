@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Writing WP-CLI Scripts that Work!",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "stevegrunwell",
+    "githubRepository": "writing-wp-cli-scripts-that-work"
+  }
+}

@@ -51,3 +51,11 @@ section.has-light-background {
 // Theme template ------------------------------
 @import "../../bower_components/reveal.js/css/theme/template/theme";
 // ---------------------------------------------
+
+.reveal {
+	p {
+		code {
+			white-space: nowrap;
+		}
+	}
+}

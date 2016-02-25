@@ -9,7 +9,7 @@
     "grunt-contrib-watch": "^0.6.1",
     "grunt-contrib-copy": "^0.8.0",
     "grunt-contrib-jshint": "^0.11.2",
-    "load-grunt-tasks": "^3.2.0", 
+    "load-grunt-tasks": "^3.2.0",
     "grunt-build-control": "^0.5.0",
     "grunt-coffeelint": "0.0.13",
     "coffeelint": "^1.0.0"
@@ -21,9 +21,11 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:stevegrunwell/writing-wp-cli-scripts-that-work.git"
-
   },
   "scripts": {
     "test": "grunt test"
+  },
+  "dependencies": {
+    "reveal-ga": "^0.1.0"
   }
 }

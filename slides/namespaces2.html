@@ -1,0 +1,19 @@
+<h3>Namespaces</h3>
+
+<pre style="position:relative"><code class="fragment fade-out php" data-fragment-index="0"># Without namespaces
+
+class MyPluginName_CLI extends WP_CLI_Command {
+
+	// ...
+
+}
+WP_CLI::add_command( 'my-plugin', 'MyPluginName_CLI' );</code><code class="fragment fade-in php" style="position: absolute; left:0; top: 0; right: 0;" data-fragment-index="0"># With namespaces
+
+namespace MyPluginName;
+
+class CLI extends WP_CLI_Command {
+
+	// ...
+
+}
+WP_CLI::add_command( 'my-plugin', __NAMESPACE__ . '\CLI' );</code></pre>

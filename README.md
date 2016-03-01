@@ -6,6 +6,13 @@ This session covers the components necessary to write great WP-CLI scripts; from
 
 **[View slides](http://stevegrunwell.github.io/writing-wp-cli-scripts-that-work)**
 
-## History
+## Notes and links
+
+* [WP-CLI project homepage](http://wp-cli.org/)
+* [WP-CLI Philosophy](github.com/wp-cli/wp-cli/wiki/Philosophy)
+* [WordPress.com VIP WP-CLI Best Practices](https://vip.wordpress.com/documentation/writing-bin-scripts/)
+* `stop_the_insanity()` code based on [the implementation from WordPress.com](https://vip-svn.wordpress.com/plugins/vip-do-not-include-on-wpcom/vip-wp-cli.php), shortened for brevity.
+
+## Presentation History
 
 * [WordCamp Dayton 2016](https://2016.dayton.wordcamp.org/) – March 5, 2016

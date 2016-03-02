@@ -1,6 +1,6 @@
-##  Public or Private?
+### Public or Private?
 
-* Public methods will be available to the command
+* <!-- .element: class="fragment" --> Public methods will be available to the command
 	* Use `@subcommand` tag to get prettier names
-* Protected and private methods are inaccessible directly
-* Classic OOP principles apply!
+* <!-- .element: class="fragment" --> Protected and private methods are inaccessible directly
+* <!-- .element: class="fragment" --> Classic OOP principles apply!

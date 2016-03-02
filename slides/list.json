@@ -17,6 +17,11 @@
         "basic-structure.md",
         "basic-structure2.md",
         "docblock.md",
+        "docblock-short-description.md",
+        "docblock-options.md",
+        "docblock-examples.md",
+        "docblock-tags.md",
+        "help-menu.md",
         "public-v-private.md",
         "wp-cli-in-plugins.md"
     ],
@@ -29,6 +34,7 @@
         "output-the-simple-stuff.md",
         "output-tables.md",
         "output-tables2.md",
+        "php-cli-tools.md",
         "colorize-output.md",
         "error-log.md"
     ],

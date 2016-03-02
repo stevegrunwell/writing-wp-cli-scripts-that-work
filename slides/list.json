@@ -52,6 +52,8 @@
         "more-good-ideas.md",
         "dry-run.md",
         "verbose.md",
+        "wordpress-plugin-api.md",
+        "wp-parse-args.md",
         "audience.md"
     ],
     [

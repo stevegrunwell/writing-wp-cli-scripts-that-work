@@ -30,12 +30,16 @@
         "input-accepting-arguments.md",
         "input-accepting-arguments2.md",
         "input-accepting-arguments3.md",
-        "input-prompts.md",
+        "input-confirm.md",
         "output-the-simple-stuff.md",
         "output-tables.md",
         "output-tables2.md",
+        "output-format-items.md",
+        "output-progress-indicators.md",
         "php-cli-tools.md",
         "colorize-output.md",
+        "input-prompts.md",
+        "input-menus.md",
         "error-log.md"
     ],
     [

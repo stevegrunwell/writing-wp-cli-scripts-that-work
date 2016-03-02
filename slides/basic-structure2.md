@@ -4,13 +4,18 @@
 class My_Awesome_Command extends WP_CLI_Command {
 
 	/**
-	 * Do something awesome.
+	 * Convert terms from taxonomy A to taxonomy B.
 	 *
 	 * ...
 	 */
-	public function do_awesome_stuff( $args, $assoc_args ) {
-		// Just do it!
+	public function convert_terms( $args, $assoc_args ) {
+		// All sorts of fancy logic.
 	}
 
 }
 ```
+
+```php
+$ wp awesome convert_terms
+```
+<!-- .element: class="fragment" -->

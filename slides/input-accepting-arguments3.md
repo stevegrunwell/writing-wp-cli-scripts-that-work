@@ -1,4 +1,4 @@
-##  Input: Accepting Arguments
+### Input: Accepting Arguments
 
 ```php
 public function my_command( $args, $assoc_args ) {

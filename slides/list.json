@@ -13,6 +13,9 @@
         "yolo.md"
     ],
     [
+        "built-in-commands.md"
+    ],
+    [
         "writing-commands.md",
         "basic-structure.md",
         "basic-structure2.md",
@@ -74,4 +77,5 @@
         "savequeries.md"
     ],
     "thank-you.md"
+
 ]

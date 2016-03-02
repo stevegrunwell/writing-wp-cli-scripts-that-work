@@ -1,4 +1,4 @@
-##  Garbage Collection
+### Garbage Collection
 
 When a variable, instance, etc. is no longer being used, PHP will try to clean up the memory in a process known as **garbage collection**
 

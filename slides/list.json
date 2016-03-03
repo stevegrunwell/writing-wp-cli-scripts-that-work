@@ -46,7 +46,6 @@
         "output-progress-indicators.md",
         "error-log.md",
         "php-cli-tools.md",
-        "colorize-output.md",
         "input-prompts.md",
         "input-menus.md"
     ],

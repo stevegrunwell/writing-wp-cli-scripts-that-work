@@ -11,9 +11,9 @@ WP_CLI::add_command( 'my-plugin', 'MyPluginName_CLI' );</code><code class="fragm
 
 namespace MyPluginName;
 
-class CLI extends WP_CLI_Command {
+class CLI extends \WP_CLI_Command {
 
 	// ...
 
 }
-WP_CLI::add_command( 'my-plugin', __NAMESPACE__ . '\CLI' );</code></pre>
+\WP_CLI::add_command( 'my-plugin', __NAMESPACE__ . '\CLI' );</code></pre>

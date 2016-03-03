@@ -1,4 +1,4 @@
-#### 3. Readability trumps number of keystrokes.
+#### III. Readability trumps number of keystrokes.
 
 Make it obvious what the user is doing! <!-- .element: class="fragment" -->
 

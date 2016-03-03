@@ -1,4 +1,4 @@
-#### 2. Composability is always a good idea.
+#### II. Composability is always a good idea.
 
 The output of one command should be "pipe-able" <!-- .element: class="fragment" -->
 

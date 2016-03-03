@@ -4,8 +4,8 @@
 
 ```php
 # Launch an external process.
-WP_CLI::launch( $command );
+WP_CLI::launch( WP_CLI\Utils\esc_cmd( $command ) );
 
 # Call another WP-CLI command.
-WP_CLI::run_command( $args, $assoc_args );
+WP_CLI::launch_self( $command, $args, $assoc_args );
 ```

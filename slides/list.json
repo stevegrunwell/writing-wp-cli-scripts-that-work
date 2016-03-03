@@ -13,7 +13,12 @@
         "yolo.md"
     ],
     [
-        "built-in-commands.md"
+        "built-in-commands.md",
+        "plugins-and-themes.md",
+        "users.md",
+        "import-export.md",
+        "database.md",
+        "search-replace.md"
     ],
     [
         "writing-commands.md",
@@ -70,6 +75,7 @@
         "more-tricks.md",
         "bash-completion.md",
         "multisite.md",
+        "globals.md",
         "namespaces.md",
         "namespaces2.html",
         "don-t-die-on-me.md",

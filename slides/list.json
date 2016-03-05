@@ -18,7 +18,8 @@
         "users.md",
         "import-export.md",
         "database.md",
-        "search-replace.md"
+        "search-replace.md",
+        "more-commands.md"
     ],
     [
         "writing-commands.md",

@@ -50,7 +50,7 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 2.5em; }
+  font-size: 2.1em; }
 
 .reveal h2 {
   font-size: 1.6em; }
@@ -287,3 +287,14 @@ body {
 
 .reveal p code {
   white-space: nowrap; }
+
+.reveal .slides-link {
+  display: block;
+  margin-top: 1em;
+  font-size: .86em;
+  white-space: nowrap; }
+
+.reveal .button-link {
+  display: inline-block;
+  background: rgba(0, 0, 0, 0.7);
+  padding: .2em .5em; }

@@ -37,7 +37,7 @@ $linkColor: #42affa;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
 
-$heading1Size: 2.5em;
+$heading1Size: 2.1em;
 $heading2Size: 1.6em;
 $heading3Size: 1.3em;
 $heading4Size: 1.0em;
@@ -57,6 +57,13 @@ section.has-light-background {
 		code {
 			white-space: nowrap;
 		}
+	}
+
+	.slides-link {
+		display: block;
+		margin-top: 1em;
+		font-size: .86em;
+		white-space: nowrap;
 	}
 
 	.button-link {

@@ -26,13 +26,13 @@
         "basic-structure.md",
         "basic-structure2.md",
         "public-v-private.md",
+        "wp-cli-in-plugins.md",
         "docblock.md",
         "docblock-short-description.md",
         "docblock-options.md",
         "docblock-examples.md",
         "docblock-tags.md",
-        "help-menu.md",
-        "wp-cli-in-plugins.md"
+        "help-menu.md"
     ],
     [
         "i-o.md",

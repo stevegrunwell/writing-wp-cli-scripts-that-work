@@ -3,7 +3,7 @@
 ```php
 # Confirm an action.
 
-confirm( 'Are you sure you want to do this?' );
+WP_CLI::confirm( 'Are you sure you want to do this?' );
 ```
 
 ```markdown

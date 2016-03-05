@@ -58,4 +58,10 @@ section.has-light-background {
 			white-space: nowrap;
 		}
 	}
+
+	.button-link {
+		display: inline-block;
+  	background: rgba(0, 0, 0, .7);
+  	padding: .2em .5em;
+	}
 }

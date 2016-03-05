@@ -287,3 +287,8 @@ body {
 
 .reveal p code {
   white-space: nowrap; }
+
+.reveal .button-link {
+  display: inline-block;
+  background: rgba(0, 0, 0, 0.7);
+  padding: .2em .5em; }

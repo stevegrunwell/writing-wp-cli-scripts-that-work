@@ -3,4 +3,4 @@
 
 ### Philosophy
 
-[github.com/wp-cli/wp-cli/wiki/Philosophy](https://github.com/wp-cli/wp-cli/wiki/Philosophy) <!-- .element: class="button-link" -->
+[wp-cli.org/docs/philosophy](http://wp-cli.org/docs/philosophy/) <!-- .element: class="button-link" -->

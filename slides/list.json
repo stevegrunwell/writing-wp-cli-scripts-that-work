@@ -75,11 +75,8 @@
         "bash-completion.md",
         "multisite.md",
         "globals.md",
-        "namespaces.md",
-        "namespaces2.html",
         "don-t-die-on-me.md",
         "sub-commands.md",
-        "tmux.md",
         "savequeries.md"
     ],
     "thank-you.md"

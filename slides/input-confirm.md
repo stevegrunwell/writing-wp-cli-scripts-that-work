@@ -2,7 +2,6 @@
 
 ```php
 # Confirm an action.
-
 WP_CLI::confirm( 'Are you sure you want to do this?' );
 ```
 

@@ -21,11 +21,19 @@
         "more-commands.md"
     ],
     [
+        "principles-of-a-good-wp-cli-command.md",
+        "audience.md",
+        "philosophy.md",
+        "philosophy1.md",
+        "philosophy2.md",
+        "philosophy3.md",
+        "philosophy4.md"
+    ],
+    [
         "writing-commands.md",
         "basic-structure.md",
         "basic-structure2.md",
         "public-v-private.md",
-        "wp-cli-in-plugins.md",
         "docblock.md",
         "docblock-short-description.md",
         "docblock-options.md",
@@ -39,27 +47,20 @@
         "input-accepting-arguments2.md",
         "input-accepting-arguments3.md",
         "input-confirm.md",
+        "input-prompts.md",
+        "input-menus.md",
         "output-the-simple-stuff.md",
         "output-tables.md",
         "output-tables2.md",
         "output-format-items.md",
         "output-progress-indicators.md",
-        "error-log.md",
-        "php-cli-tools.md",
-        "input-prompts.md",
-        "input-menus.md"
+        "error-log.md"
     ],
     [
-        "principles-of-a-good-wp-cli-command.md",
-        "audience.md",
-        "philosophy.md",
-        "philosophy1.md",
-        "philosophy2.md",
-        "philosophy3.md",
-        "philosophy4.md",
         "more-good-ideas.md",
         "dry-run.md",
         "verbose.md",
+        "wp-cli-in-plugins.md",
         "wordpress-plugin-api.md",
         "wp-parse-args.md"
     ],
@@ -67,6 +68,7 @@
         "performance-tips.md",
         "caching.md",
         "wp-importing.md",
+        "savequeries.md",
         "garbage-collection.md",
         "stop-the-insanity.md"
     ],
@@ -75,12 +77,8 @@
         "bash-completion.md",
         "multisite.md",
         "globals.md",
-        "namespaces.md",
-        "namespaces2.html",
         "don-t-die-on-me.md",
-        "sub-commands.md",
-        "tmux.md",
-        "savequeries.md"
+        "sub-commands.md"
     ],
     "thank-you.md"
 ]

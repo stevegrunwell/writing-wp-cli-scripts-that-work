@@ -8,7 +8,7 @@ How people might use your command.
  *
  * ## EXAMPLES
  *
- *   wp my-plugin convert-terms category post_tag
+ *   wp awesome convert-terms category post_tag
  *
 ```
 <!-- .element: class="fragment" -->

@@ -8,7 +8,7 @@
  * : This is a required, associative argument.
  *
  * [--option2=<optional>]
- * : This positional argument is optional.
+ * : This associative argument is optional.
  *
  * [--flag]
  * : An optional flag.

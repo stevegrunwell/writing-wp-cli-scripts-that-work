@@ -1,4 +1,4 @@
-# Writing WP-CLI Scripts that Work!
+# Writing WP-CLI Commands that Work!
 
 Steve Grunwell<br>
 [@stevegrunwell](https://twitter.com/stevegrunwell)

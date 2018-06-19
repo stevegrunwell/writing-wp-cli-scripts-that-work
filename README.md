@@ -16,6 +16,6 @@ This session covers the components necessary to write great WP-CLI scripts; from
 ## Presentation History
 
 * [WordCamp Cincinnati 2017](https://2017.cincinnati.wordcamp.org/) - November 12, 2017
-* [LoopConf 2.1](https://loopconf.com/) - February 8, 2017
+* [LoopConf 2.1](https://loopconf.com/) - February 8, 2017 ([video](https://youtu.be/GL6v5bUe9J4))
 * [WordCamp Columbus 2016](https://2016.columbus.wordcamp.org/) - August 27, 2016
 * [WordCamp Dayton 2016](https://2016.dayton.wordcamp.org/) – March 5, 2016 ([joind.in](https://joind.in/talk/43635))
